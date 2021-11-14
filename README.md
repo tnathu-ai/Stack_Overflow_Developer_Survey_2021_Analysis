@@ -31,7 +31,8 @@ python version 3.8.8
 
 2. In the terminal, navigate to the directory containing the project and install install these packages and libraries
 
-`pip install pandas 
+```
+pip install pandas 
 
 pip install scikit-learn 
 
@@ -55,7 +56,8 @@ pip install dash-core-components
 
 pip install numpy
 
-pip install WordCloud`
+pip install WordCloud
+```
 
 
 3. Enter the newly created directory using `cd directory-name` and start the Jupyter Lab.
@@ -98,6 +100,7 @@ virtualenv venv
 
 # Windows
 venv\Scripts\activate
+
 # Or Linux
 source venv/bin/activate
 
