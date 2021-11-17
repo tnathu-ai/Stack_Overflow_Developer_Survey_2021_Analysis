@@ -161,15 +161,6 @@ The following are screenshots for the app in this repo:
 ![screenshot](Images/comp_gender.png)
 
 
-
-# Option 2: RUNNING USING ONLINE RESOURCES (1-click)
-
-The easiest way to start executing this notebook is to click the "Run" button at the top of this page, and select "Run
-on Binder". This will run the notebook on [mybinder.org](https://mybinder.org), a free online service for running
-Jupyter notebooks. You can also select "Run on Colab" or "Run on Kaggle".
-
-
-
 ## Productionization
 
 In this step, I built a flask API endpoint that was hosted on a local webserver 
