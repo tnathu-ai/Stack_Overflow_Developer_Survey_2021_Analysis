@@ -154,11 +154,11 @@ You can access my full version of jupyter notebook here:
 
 The following are screenshots for the app in this repo:
 
-![img.png](Images/compensation_women.png)
+![img.png](compensation_women.png)
 
-![img.png](Images/participation_onl_dev.png)
+![img.png](participation_onl_dev.png)
 
-![screenshot](Images/comp_gender.png)
+![screenshot](comp_gender.png)
 
 
 ## Productionization
