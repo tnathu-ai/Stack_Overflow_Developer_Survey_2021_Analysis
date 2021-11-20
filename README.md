@@ -162,7 +162,7 @@ The following are screenshots for the app in this repo:
 
 ![screenshot](comp_gender.png)
 
-![screenshot](img.png)
+
 
 
 ## Productionization
