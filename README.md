@@ -156,9 +156,13 @@ The following are screenshots for the app in this repo:
 
 ![img.png](compensation_women.png)
 
+![img.png](compensation_men.png)
+
 ![img.png](participation_onl_dev.png)
 
 ![screenshot](comp_gender.png)
+
+![screenshot](img.png)
 
 
 ## Productionization
