@@ -168,3 +168,14 @@ The following are screenshots for the app in this repo:
 ## Productionization
 
 In this step, I built a flask API endpoint that was hosted on a local webserver 
+
+
+
+## Future improvement:
++ Labeling: For supervised learning, then I need to make sure that my labels are accurate. 
+
++ Feature space coverage: Ensure that my training dataset has examples that cover the same feature space as the request that my future model will receive. 
+
++ Minimal Dimensionality & Maximum predictive data: I also want to reduce the dimensionality of your feature vector to optimize my system performance while retaining or enhancing the predictive information on my data. 
+
++ Fairness:  I will need to consider and measure the fairness of my data and model, especially for rare conditions, for example, in this case, where gender inequality prerequisites may be critical to success. 
