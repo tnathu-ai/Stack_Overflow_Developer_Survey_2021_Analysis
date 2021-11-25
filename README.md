@@ -152,7 +152,7 @@ You can access my full version of jupyter notebook here:
 
 ## Demo:
 
-The following are screenshots for the app in this repo:
+The following are screenshots for the Dash visualizations in this repo:
 
 ![img.png](compensation_women.png)
 
