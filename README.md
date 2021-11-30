@@ -1,19 +1,19 @@
 # Data Exploration
-
 ![sovf2021 dash image](Images/dash.jpg)
 
 
 ## Overview
-
+With nearly 80,000 responses fielded from over 180 countries and dependent territories, Annual Developer Survey examines all aspects of the developer experience from career satisfaction and job search to education and opinions on open source software.
 
 ## Business Problem
+Do underrepresented countries in the survey like Vietnam tend to have less gender disparity in the Tech community?
+
 
 ## Data
 [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey) Results 2021 dataset
 
 
 ## Methods
-
 This project uses descriptive analysis, including description of trends over time. This provides a useful overview of Stack Over Flow users and outcomes to identify the gender inequality in Tech field
 
 
@@ -161,7 +161,6 @@ In this step, I built a flask API endpoint that was hosted on a local webserver
 
 
 ## Repository Structure
-
 ```
 ├── dash
 │   ├── app.py
