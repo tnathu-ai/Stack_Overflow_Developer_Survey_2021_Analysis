@@ -139,9 +139,9 @@ You can access my full version of jupyter notebook here:
 
 The following are screenshots for the Dash visualizations in this repo:
 
-![img.png](compensation_women.png)
+![men](Images/compensation_men.png)
 
-![img.png](compensation_men.png)
+![women](Images/compensation_women.png)
 
 
 ## Productionization
