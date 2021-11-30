@@ -178,8 +178,17 @@ In this step, I built a flask API endpoint that was hosted on a local webserver
 │   ├── Procfile
 │   └── requirements.txt
 ├── images
-├── __init__.py
 ├── README.md
 ├── interactive_html
-└── assignment1.ipynb
+│   ├── ConvertedCompYearly_box_plot.html
+│   ├── fig-animated-bar.html
+│   ├── fig-Vietnames-woman-participation.html
+│   └── fig-Vietnamese-compensation.html
+│   ├── scatter-man.html
+│   └── scatter-woman.html
+└── cleaning.ipynb
+└── encoding.ipynb
+└── EDA.ipynb
+└── dash_visualization.ipynb
+└── jupyter_functions.ipynb
 ```
