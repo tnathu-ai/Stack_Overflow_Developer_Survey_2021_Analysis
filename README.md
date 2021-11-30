@@ -15,9 +15,35 @@ This project uses descriptive analysis, including description of trends over tim
 
 
 ## Results
++ More Vietnamese men than women answered the survey. Surprisingly the yearly compensation gap between men and women is significantly large (14,832,499 USD and 762,831 USD)
+
++ Most Vietnamese women respondents are not a member of other online developer communities besides Stack Overflow in 2021
+
++ Older age respondents are more likely to be a member of other online developer communities. This might be because they need more resources to serve their professional work.
+
++ The most famous operating system in Vietnam for those who responded to the survey is Window. This might be the diversity in the price range of these devices.
+
++ The higher number of years of coding including education ( or years of professional coding not including education), the higher the yearly compensation is. 
+
++ Most Vietnamese women responded to the survey work in organization size around 20-99 employees, and their highest average compensation yearly is 56.211k USD
+
++ The most popular language in 2021 is JavaScript
+
++ The highest median yearly compensation of all the respondents is San Marino, USA only takes second place
+
++ Most respondents in this survey are not belong to any online developer communities besides Stack Over Flow
+
++ Over half of the respondents hold a bachelor's, so most programmers seem to have some formal education. However, it's not clear whether they hold a degree in computer science.
+
++ Web developer seems to get the most popular: first is full stack, then front and back end developer. 
+
++ Most of the respondents are man (91.78%)
+
++ Women tend to have a coding career length shorter than men
+
 
 ## Conclusions
-
++ I would recommend Stack Overflow to increase the inclusivity by translating the survey into multiple languages.
 ## For More Information
 See the full analysis in the [Dash interactive DashBoard]() 
 
@@ -40,46 +66,6 @@ python version 3.8.8
 1. Download the github zipped project folder or clone the github repo. Unzip it by double-clicking on it.
 
 2. In the terminal, navigate to the directory containing the project and install these packages and libraries
-
-```
-pip install pandas 
-
-pip install scikit-learn 
-
-pip install matplotlib 
-
-pip install seaborn 
-
-pip install statsmodel
-
-pip install dash
-
-pip install dash-auth
-
-pip install dash-renderer
-
-pip install dash-bootstrap-components
-
-pip install cufflinks
-
-pip install --upgrade pandas
-
-pip install plotly==5.3.1 
-
-pip install plotly --upgrade
-
-pip install dash_daq 
-
-pip install dash-html-components 
-
-pip install dash_bootstrap_components 
-
-pip install dash-core-components
-
-pip install numpy
-
-pip install WordCloud
-```
 
 3. Enter the newly created directory using `cd directory-name` and start the Jupyter Lab.
 
@@ -165,6 +151,7 @@ In this step, I built a flask API endpoint that was hosted on a local webserver
 
 
 ## Future improvement:
+
 + Labeling: For supervised learning, then I need to make sure that my labels are accurate. 
 
 + Feature space coverage: Ensure that my training dataset has examples that cover the same feature space as the request that my future model will receive. 
