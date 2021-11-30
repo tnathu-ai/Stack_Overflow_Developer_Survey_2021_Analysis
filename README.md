@@ -158,12 +158,6 @@ The following are screenshots for the Dash visualizations in this repo:
 
 ![img.png](compensation_men.png)
 
-![img.png](participation_onl_dev.png)
-
-![screenshot](comp_gender.png)
-
-
-
 
 ## Productionization
 
