@@ -48,8 +48,20 @@ This project uses descriptive analysis, including description of trends over tim
 ## Conclusions
 + I would recommend Stack Overflow to increase the inclusivity by translating the survey into multiple languages.
 
+# Option 1: RUNNING USING ONLINE RESOURCES (1-click)
 
-# Option 1: WORKING ON YOUR LOCAL COMPUTER: python version 3.8.8
+The easiest way to start executing this notebook is to click the "Run" button at the top of this page, and select "Run
+on Binder". This will run the notebook on [mybinder.org](https://mybinder.org), a free online service for running
+Jupyter notebooks. You can also select "Run on Colab" or "Run on Kaggle".
+
+You can access my full version of jupyter notebook WITH INTERACTIVE GRAPHS: 
++ [**Cleaning**](https://plotly.com/~tnathu/17/assignment-1-data-exploration-this-is/)
++ [**Encoding**](https://plotly.com/~tnathu/18/assignment-1-data-exploration-this-is/)
++ [**EDA**](https://plotly.com/~tnathu/19/assignment-1-data-exploration-this-is/)
++ [**Dash_Visualization**](https://plotly.com/~tnathu/20/task-4-visualisation-dashboard-this-is/)
+
+
+# Option 2: WORKING ON YOUR LOCAL COMPUTER: python version 3.8.8
 
 1. Install Conda
    by [following these instructions](https://conda.io/projects/conda/en/latest/user-guide/install/index.html). Add Conda
@@ -118,19 +130,6 @@ source venv/bin/activate
 python app.py
 
 ```
-
-
-# Option 2: RUNNING USING ONLINE RESOURCES (1-click)
-
-The easiest way to start executing this notebook is to click the "Run" button at the top of this page, and select "Run
-on Binder". This will run the notebook on [mybinder.org](https://mybinder.org), a free online service for running
-Jupyter notebooks. You can also select "Run on Colab" or "Run on Kaggle".
-
-You can access my full version of jupyter notebook here: 
-+ **Task 1:** https://plotly.com/~tnathu/17/assignment-1-data-exploration-this-is/
-+ **Task 1.8:** https://plotly.com/~tnathu/18/assignment-1-data-exploration-this-is/
-+ **Task 2:** https://plotly.com/~tnathu/19/assignment-1-data-exploration-this-is/
-+ **Task 4:** https://plotly.com/~tnathu/20/task-4-visualisation-dashboard-this-is/
 
 
 
