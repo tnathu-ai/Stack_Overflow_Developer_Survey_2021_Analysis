@@ -47,13 +47,9 @@ This project uses descriptive analysis, including description of trends over tim
 
 ## Conclusions
 + I would recommend Stack Overflow to increase the inclusivity by translating the survey into multiple languages.
-## For More Information
-See the full analysis in the [Dash interactive DashBoard]() 
 
 
-python version 3.8.8
-
-# Option 1: WORKING ON YOUR LOCAL COMPUTER
+# Option 1: WORKING ON YOUR LOCAL COMPUTER: python version 3.8.8
 
 1. Install Conda
    by [following these instructions](https://conda.io/projects/conda/en/latest/user-guide/install/index.html). Add Conda
