@@ -32,7 +32,7 @@ python version 3.8.8
 
 2. Install jupyter lab and jupyter notebook on your terminal
 
-+ `pip install jupyter lab`
++ `pip install jupyterlab`
 + `pip install jupyter notebook`
 
 ### Jupyter Lab
