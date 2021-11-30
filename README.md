@@ -1,6 +1,6 @@
 # Data Exploration
 
-![sovf2021 dash image](Images/dash.png)
+![sovf2021 dash image](Images/dash.jpg)
 
 
 ## Overview
