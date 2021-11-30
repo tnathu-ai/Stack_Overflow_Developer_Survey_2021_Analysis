@@ -1,4 +1,4 @@
-# Assignment 1: Data Exploration
+# Data Exploration
 
 ## Overview
 
@@ -8,7 +8,6 @@
 ## Data
 [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey) Results 2021 dataset
 
-**[Github repo for this Assignment](https://github.com/tnathu-ai/Stack_Overflow_Developer_Survey_2021_Analysis)**
 
 ## Methods
 
@@ -38,7 +37,7 @@ python version 3.8.8
 
 ### Jupyter Lab
 
-1. Download the 3879312 zipped project folder. Unzip it by double-clicking on it.
+1. Download the github zipped project folder or clone the github repo. Unzip it by double-clicking on it.
 
 2. In the terminal, navigate to the directory containing the project and install these packages and libraries
 
