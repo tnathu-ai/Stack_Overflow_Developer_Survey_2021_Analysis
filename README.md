@@ -1,27 +1,27 @@
 # Assignment 1: Data Exploration
 
-This is submission for Assignment 1 for student **s3879312**
+## Overview
 
-Analyzing the [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey) Results 2021 dataset
+
+## Business Problem
+
+## Data
+[Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey) Results 2021 dataset
 
 **[Github repo for this Assignment](https://github.com/tnathu-ai/Stack_Overflow_Developer_Survey_2021_Analysis)**
 
-# Analyzing the Stack Overflow Developer Survey Results 2021 dataset. The dataset contains three files:
+## Methods
 
-- `README.txt` - Information about the dataset
-- `survey_results_schema.csv` - The list of questions, and shortcodes for each question
-- `survey_results_public.csv` - The full list of responses to the questions
-- `assignment1.ipynb` - The main jupyter notebook you should run
-- `assignment1.py` - The python file contains all functions I used
-- `Dash` - The folder for Dash Web App
-- `interactive_html` - The folder for opening each interactive Dash Visualization files in local browser
+This project uses descriptive analysis, including description of trends over time. This provides a useful overview of Stack Over Flow users and outcomes to identify the gender inequality in Tech field
 
-# Files to the Development Folder (Dash folder)
 
-* `app.py`    a Dash application
-* `.gitignore`    used by git, identifies files that won’t be pushed to production
-* `Procfile`    used for deployment
-* `requirements.txt`    describes your Python dependencies, can be created automatically
+## Results
+
+## Conclusions
+
+## For More Information
+See the full analysis in the [Dash interactive DashBoard]() 
+
 
 python version 3.8.8
 
@@ -179,3 +179,24 @@ In this step, I built a flask API endpoint that was hosted on a local webserver
 + Minimal Dimensionality & Maximum predictive data: I also want to reduce the dimensionality of your feature vector to optimize my system performance while retaining or enhancing the predictive information on my data. 
 
 + Fairness:  I will need to consider and measure the fairness of my data and model, especially for rare conditions, for example, in this case, where gender inequality prerequisites may be critical to success. 
+
+
+## Repository Structure
+
+```
+├── dash
+│   ├── app.py
+│   ├── .gitignore
+│   ├── Procfile
+│   └── requirements.txt
+├── data
+│   ├── survey_results_schema.csv
+│   ├── survey_results_public.csv
+│   ├── Procfile
+│   └── requirements.txt
+├── images
+├── __init__.py
+├── README.md
+├── interactive_html
+└── assignment1.ipynb
+```
